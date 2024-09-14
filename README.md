@@ -22,7 +22,6 @@ For example, the objects in the following images were detected using [mmdetectio
   * package manager
 
 ### Installation
-
 In a bash terminal, run the following commands (Do NOT actually run these commands in your computer):
 
     $ sudo apt update
