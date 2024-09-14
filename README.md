@@ -16,15 +16,15 @@ For example, the objects in the following images were detected using mmdetection
 
 Dependencies (Level 3 Heading)
 
-python
+* python
 
-opencv-python
+* opencv-python
 
-tensorflow
+* tensorflow
 
-openmmlab
+* openmmlab
 
-package manager
+* package manager
 
 Installation
 
