@@ -1,4 +1,4 @@
-My Project Plan (Level 1 Heading)
+**My Project Plan (Level 1 Heading)
 
 Note: This document is written merely as an illustrative example, and does not provide
 
@@ -14,7 +14,7 @@ or PyTorch, and other open source softwares.
 
 For example, the objects in the following images were detected using mmdetection:
 
-Dependencies (Level 3 Heading)
+**Dependencies (Level 3 Heading)
 
 * python
 
@@ -26,7 +26,7 @@ Dependencies (Level 3 Heading)
 
 * package manager
 
-Installation
+**Installation
 
 In a bash terminal, run the following commands (Do NOT actually run these commands in
 
