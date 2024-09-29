@@ -12,7 +12,7 @@ __cd__: chage directory
 
 __ls__: list files and directries
 
-arguments
+### arguments
   * / root
   * . current directory
   * .. upper-level directory
