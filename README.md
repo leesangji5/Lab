@@ -4,7 +4,7 @@ __kernel__: the kernel is the core component that manages hardware resources and
 
 __shell__:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
 
-### shell commands
+## shell commands
 
 __pwd__: shows the current path in a hierarchical directory
 
@@ -12,7 +12,7 @@ __cd__: chage directory
 
 __ls__: list files and directries
 
-### arguments
+## arguments
   * / root
   * . current directory
   * .. upper-level directory
