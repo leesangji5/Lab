@@ -1,8 +1,8 @@
-kernel, shell
+#Kernel, Shell
 
-kernel: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
+*kernel: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
 
-shell:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
+*shell*:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
 
 shell commands
 
@@ -13,17 +13,17 @@ cd: chage directory
 ls: list files and directries
 
 arguments
-/ root
-. current directory
-.. upper-level directory
-~ home
-/directory: absolute path
-./directory: relative path
-../directory: relative path
+*/ root
+*. current directory
+*.. upper-level directory
+*~ home
+*/directory: absolute path
+*./directory: relative path
+*../directory: relative path
 
--l show detailed information
--lh same ad above, but size in unit
--la list all files
+*-l show detailed information
+*-lh same ad above, but size in unit
+*-la list all files
 
 cp: copy files and directories
 cp file1 file2: file2 overwritten with the contents of file1
