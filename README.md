@@ -13,7 +13,7 @@ cd: chage directory
 ls: list files and directries
 
 arguments
-  * / root
+  * */* root
   * . current directory
   * .. upper-level directory
   * ~ home
