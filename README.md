@@ -39,6 +39,8 @@ __mkdir__: make a new directory
   * -lh same ad above, but size in unit
   * -la list all files\
 
+## Additional
+
 __help__: show commands
 
 __exit__: exit terminal
