@@ -1,31 +1,46 @@
-# My Project Plan (Level 1 Heading)
-__*Note*__: This document is written merely as an illustrative example, and does not provideany working guide to an actual project.
+kernel, shell
 
-### Proposal (Level 3 Heading)
-***********************
+kernel: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
 
-I am planning to make a computer vision software that detects objects in images.
-In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/?hl=ko)
-or [PyTorch](https://pytorch.org/), and other open source softwares.
+shell:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
 
-For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
+shell commands
 
-![](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)
+pwd: shows the current path in a hierarchical directory
 
-***********************
+cd: chage directory
 
-### Dependencies (Level 3 Heading)
-  * python
-  * opencv-python
-  * tensorflow
-  * openmmlab
-  * package manager
+ls: list files and directries
 
-### Installation
-In a bash terminal, run the following commands (Do NOT actually run these commands in your computer):
+arguments
+/ root
+. current directory
+.. upper-level directory
+~ home
+/directory: absolute path
+./directory: relative path
+../directory: relative path
 
-    $ sudo apt update
-    $ conda create -n cv_detection
-    $ conda activate cv_detection
-    $ python --version
-    $ python example.py
+-l show detailed information
+-lh same ad above, but size in unit
+-la list all files
+
+cp: copy files and directories
+cp file1 file2: file2 overwritten with the contents of file1
+cp -i file1 dir1: copy the contents of file1 to directory dir1 
+
+mv: move files and directories or rename
+mv file1 file2: if file2 does not exist, then file1 is rename file2, if exist, file2 repalced the contents of file1
+mv file1 file2 dir1: file1 and file2 move directory dir1
+mv dir1 dir2" dor1 dpes mpt exost. then renamed dir2, if exist dir1 is moved directory dir2
+
+
+rm: remove files and directories
+rm file1 file2: delete file1 and file2
+
+
+mkdir: make a new directory
+
+help: show commands
+
+exit: exit terminal
