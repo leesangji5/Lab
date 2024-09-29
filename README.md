@@ -1,8 +1,8 @@
 # Kernel, Shell
 
-kernel: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
+*kernel*: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
 
-shell:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
+*shell*:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
 
 shell commands
 
