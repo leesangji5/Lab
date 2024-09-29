@@ -13,8 +13,8 @@ __cd__: chage directory
 __ls__: list files and directries
 
 ### arguments
-  * _/_ root
-  * _._ current directory
+  * / root
+  * . current directory
   * .. upper-level directory
   * ~ home
   * /directory: absolute path
@@ -29,18 +29,17 @@ __cp__: copy files and directories
  * cp file1 file2: file2 overwritten with the contents of file1
  * cp -i file1 dir1: copy the contents of file1 to directory dir1 
 
-mv: move files and directories or rename
-mv file1 file2: if file2 does not exist, then file1 is rename file2, if exist, file2 repalced the contents of file1
-mv file1 file2 dir1: file1 and file2 move directory dir1
-mv dir1 dir2" dor1 dpes mpt exost. then renamed dir2, if exist dir1 is moved directory dir2
+__mv__: move files and directories or rename
+ * mv file1 file2: if file2 does not exist, then file1 is rename file2, if exist, file2 repalced the contents of file1
+ * mv file1 file2 dir1: file1 and file2 move directory dir1
+ * mv dir1 dir2" dor1 dpes mpt exost. then renamed dir2, if exist dir1 is moved directory dir2
 
 
-rm: remove files and directories
-rm file1 file2: delete file1 and file2
+__rm__: remove files and directories
+ * rm file1 file2: delete file1 and file2
 
+__mkdir__: make a new directory
 
-mkdir: make a new directory
+__help__: show commands
 
-help: show commands
-
-exit: exit terminal
+__exit__: exit terminal
