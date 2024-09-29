@@ -27,17 +27,16 @@ __rm__: remove files and directories
 __mkdir__: make a new directory
 
 ## arguments
-  * / root
-  * . current directory
-  * .. upper-level directory
-  * ~ home
-  * /directory absolute path
-  * ./directory relative path
-  * ../directory relative path
-
-  * -l show detailed information
-  * -lh same ad above, but size in unit
-  * -la list all files\
+  * / --- root
+  * . --- current directory
+  * .. --- upper-level directory
+  * ~ --- home
+  * /directory --- absolute path
+  * ./directory --- relative path
+  * ../directory --- relative path
+  * -l --- show detailed information
+  * -lh --- same ad above, but size in unit
+  * -la --- list all files\
 
 ## Additional
 
