@@ -13,8 +13,8 @@ __cd__: chage directory
 __ls__: list files and directries
 
 ### arguments
-  * / root
-  * . current directory
+  * _/_ root
+  * _._ current directory
   * .. upper-level directory
   * ~ home
   * /directory: absolute path
