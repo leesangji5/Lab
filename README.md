@@ -27,8 +27,8 @@ __rm__: remove files and directories
 __mkdir__: make a new directory
 
 ## arguments
-  * / root
-  * . current directory
+  * / (root)
+  * . (current directory)
   * .. upper-level directory
   * ~ home
   * /directory: absolute path
@@ -41,6 +41,6 @@ __mkdir__: make a new directory
 
 ## Additional
 
-__help__: show commands
+__help__: show commands detials
 
 __exit__: exit terminal
