@@ -32,12 +32,12 @@ __wget__: download files from the internet
 __curl__: fetching, uploading, and managing data over the internet
 
 __grep__: Global Regular Expression Print for searching text within files.
-  • -i: Case-insensitive search (finds "apple" and "Apple").
-  • -v: Invert the match (finds lines *not* containing the search term).
-  • -n: Display line numbers along with matching lines.
-  • -r`: Recursive search (searches through all files in a directory and its subdirectories).
-  • .*: Matches any character (`.`) zero or more times (`*`).
-  • \d: Matches any digit (0-9).
-  • [abc]: Matches any single character within the brackets.
-  • ^: Matches the beginning of a line.
-  • `$: Matches the end of a line.
+  * -i: Case-insensitive search (finds "apple" and "Apple").
+  * -v: Invert the match (finds lines *not* containing the search term).
+  * -n: Display line numbers along with matching lines.
+  * -r`: Recursive search (searches through all files in a directory and its subdirectories).
+  * .*: Matches any character (`.`) zero or more times (`*`).
+  * \d: Matches any digit (0-9).
+  * [abc]: Matches any single character within the brackets.
+  * ^: Matches the beginning of a line.
+  * `$: Matches the end of a line.
