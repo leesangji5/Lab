@@ -1,6 +1,8 @@
-# Kernel, Shell
+# CLI(command line interface)2
 
-__kernel__: the kernel is the core component that manages hardware resources and facilitates communication between hardware and software.
+__IO redirection__: standard output, by default, standard output is screen
+ * > after a command to create and save the output in a file
+ * cat displays the content of a text file
 
 __shell__:  the shell is a user interface that allows users to interact with the kernel, CLI or GUI
 
