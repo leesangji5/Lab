@@ -28,6 +28,10 @@ __git config__
 
 `git config --global user.email myemail@gachon.ac.kr`
 
-`git config--`
+`git config --global init.defualtbBranch main`
 
-``
+`git config --list`
+
+`git config --list --show-origin`
+
+`git config user.name`
