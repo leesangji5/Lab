@@ -14,5 +14,20 @@ __State__: has three states in git
  * git directory: The .git folder that stores all metadata and history of the project
 
 __installing git__
+
 `git --version`
+
 `sudo apt install git-all #if has un error in git --version`
+
+__git config__
+ * system level: --system option. affects all uses
+ * global level: --global option. affects all repositories
+ * local level: --local option. specific to the current repository
+
+` git config --global user.name "leesangji"`
+
+`git config --global user.email myemail@gachon.ac.kr`
+
+`git config--`
+
+``
