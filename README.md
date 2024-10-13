@@ -37,11 +37,17 @@ __git config__
 `git config user.name`
 
 __git init__: initializing a repository in an existing directory
+
 __git status__: checking repository status
+
 __git add\[file_name\]__: adding a new file to be staged
+
 __git add .__: adding all files to be staged
+
 __git rm --cached \[file_name\]__: unstaging a file
+
 __.gitignore__: ignoring a file
+
 __git commit -m "commit message"__: commit
 
 `git log`
