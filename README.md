@@ -14,6 +14,5 @@ __State__: has three states in git
  * git directory: The .git folder that stores all metadata and history of the project
 
 __installing git__
-
-`sudo apt install git-all`
-
+`git --version`
+`sudo apt install git-all #if has un error in git --version`
