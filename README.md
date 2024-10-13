@@ -24,7 +24,7 @@ __git config__
  * global level: --global option. affects all repositories
  * local level: --local option. specific to the current repository
 
-` git config --global user.name "leesangji"`
+`git config --global user.name "leesangji"`
 
 `git config --global user.email myemail@gachon.ac.kr`
 
@@ -35,3 +35,18 @@ __git config__
 `git config --list --show-origin`
 
 `git config user.name`
+
+__git init__: initializing a repository in an existing directory
+__git status__: checking repository status
+__git add\[file_name\]__: adding a new file to be staged
+__git add .__: adding all files to be staged
+__git rm --cached \[file_name\]__: unstaging a file
+__.gitignore__: ignoring a file
+__git commit -m "commit message"__: commit
+
+`git log`
+
+`git brancch`
+
+
+
